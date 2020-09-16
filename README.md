@@ -23,4 +23,8 @@ $ yarn start
 2. 函数组件
 3. 高阶组件
 ```
-[类组件](http://www.mdeditor.com/)
+[类组件](https://github.com/zhoushaobo1015/react-ts/tree/master/src/pages/about)
+[函数组件](https://github.com/zhoushaobo1015/react-ts/tree/master/src/pages/business)
+[高阶组件](https://github.com/zhoushaobo1015/react-ts/tree/master/src/pages/qualifications)
+
+*** 项目不定期更新记录 ***
