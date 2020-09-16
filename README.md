@@ -19,7 +19,8 @@ $ yarn start
 ```bash
 主要介绍react + typescript,结合
 其次介绍三种组件写法
-1. [类组件](http://www.mdeditor.com/)
+1. 类组件
 2. 函数组件
 3. 高阶组件
 ```
+[类组件](http://www.mdeditor.com/)
