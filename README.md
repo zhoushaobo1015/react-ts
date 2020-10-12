@@ -28,3 +28,6 @@ $ yarn start
 [高阶组件](https://github.com/zhoushaobo1015/react-ts/tree/master/src/pages/qualifications)
 
 *** 项目不定期更新记录 ***
+
+## 受控组件 如：
+input 是否展示 可以通过属性控制，该组件为受控组件。
