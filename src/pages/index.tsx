@@ -39,6 +39,11 @@ export default class index extends Component<IProps, IState> {
     this.setState({
       count,
     });
+    let num: number = this.headleNum(count);
+  };
+
+  headleNum = (a: number): number => {
+    return a + this.state.count;
   };
   checkColor = (e: React.MouseEvent) => {
     console.log(e, e.target);
